@@ -10,4 +10,4 @@ We used SQL queries to have a better understanding of data
 Some of main conclusions:
 - There is a distinct trend is user activity - significant decrease in December due to holidays and increase in February, which could be explained by "New Year Resolutions" to start learn programming in next year
 - Users activity tend to decreaase with the time goes by. Majority of posts and answers are created on first month after registration and then users start to produce less content
-- Python, Java and JavaScript are main topics of discussion on StackOverflow
+- Python, Java and JavaScript are main topics of discussion on StackOverflow (to define main topics additional python code was written)
